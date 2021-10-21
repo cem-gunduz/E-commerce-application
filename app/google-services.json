@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410257946876",
+    "project_id": "product-76b1d",
+    "storage_bucket": "product-76b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410257946876:android:1d2d99a3bd058711a97f79",
+        "android_client_info": {
+          "package_name": "com.example.e_ticaret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410257946876-ge6349202obm7mm4bgpvsuen2eomeh54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA11byjxXNY_QMcDISsExcpX0dYQvlzAW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410257946876-ge6349202obm7mm4bgpvsuen2eomeh54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
