@@ -16,6 +16,6 @@ cartview layoutunu ve ürünler adapterını oluşturup kategori adaptera göre 
 ürünleri tek satırda 2 şer tane olacak şekilde tasarladım. Son olarakta detay sayfasına ürünlerin verilerini(nesneleri) yollayıp, veritabanından aldığım verilerin görüntülenmesini sağladım. 
 <br><br>
 ### Projedeki Ek Özellikler
-İlk sayfada `databinding` ile tasarımsal kodları modern hale getirdim. Görsel nesnelere pratik bir şekilde erişmeyi sağladım. <br>
-Radiobutonların tıklanılma kodlarını tasarım bölümüne yazıp daha okunaklı hale getirdim.
+Açılan ilk sayfada `databinding` ile tasarımsal kodları modern hale getirdim. Görsel nesnelere pratik bir şekilde erişmeyi sağladım. <br>
+Açılan ilk sayfada Radiobutonların tıklanılma kodlarını tasarım bölümüne yazıp daha okunaklı hale getirdim.
 
