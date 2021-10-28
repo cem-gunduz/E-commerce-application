@@ -33,7 +33,7 @@ public class UrunlerActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_urunler);
 
-        toolbar=findViewById(R.id.toolbar);
+        toolbar=findViewById(R.id.toolbar); 
         urunlerRv=findViewById(R.id.urunlerRv);
 
         database = FirebaseDatabase.getInstance(" https://product-76b1d-default-rtdb.europe-west1.firebasedatabase.app");

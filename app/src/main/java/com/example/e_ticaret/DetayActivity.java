@@ -21,11 +21,11 @@ public class DetayActivity extends AppCompatActivity {
 
 
         urun=(Urun)getIntent().getSerializableExtra("nesne");
-        textViewAd.setText(urun.getAd());
-        textViewKategori.setText(urun.getKategori());
-        textViewAciklama.setText(urun.getAciklama());
-        textViewYil.setText(String.valueOf(urun.getTarih()));
-        textViewFiyat.setText(String.valueOf(urun.getFiyat()));
+        textViewAd.setText("Ürün adı: "+urun.getAd());
+        textViewKategori.setText("Ürün kategorisi: "+urun.getKategori());
+        textViewAciklama.setText("Ürün açıklaması: "+urun.getAciklama());
+        textViewYil.setText(String.valueOf("Ürün yılı: "+urun.getTarih()));
+        textViewFiyat.setText(String.valueOf("Ürün fiyatı: "+urun.getFiyat()));
 
 
 
